@@ -1,1 +1,3 @@
 # termNSI
+
+## Enregistrer session psql 
